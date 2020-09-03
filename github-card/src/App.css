@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  width: auto;
+}
+
+#followersContainer{
+  display:inline-table;
+  width: 20%;
+  margin: 2%;
+
+}
+.followersCard{
+  display: inline-flex;
+  flex-direction: column;
+  width:auto;
+  margin:2%;
+}
+
+/* *{
+  border: white 2px solid;
+} */
+
+
+
+
+
